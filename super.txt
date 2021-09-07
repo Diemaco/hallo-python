@@ -1,0 +1,5 @@
+Het toegevoegde Python bestand komt niet van een website af, 
+maar het is iets wat ik heb geprogrammeerd toen ik kleiner was en nog niet zo goed was in Python.
+Dus als projectje heb ik met een programmeur als docent dit programmatje gemaakt voor zijn werk
+
+Link naar website: localhost
